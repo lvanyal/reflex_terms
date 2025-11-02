@@ -1,3 +1,8 @@
+---
+layout: default
+title: Terms of Service
+---
+
 # Privacy Policy
 
 **Chess Reflex: ELO AI Puzzles**
